@@ -14,11 +14,11 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Things to know!",
             "pages": [
               "index",
               "quickstart",
-              "development"
+              "tos"
             ]
           },
           {
